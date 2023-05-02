@@ -1,0 +1,13 @@
+:root {
+  --main-family: medium, "Jost", sans-serif;
+  --headers-family: bold, "Jost", sans-serif;
+  --text-family: normal, "Jost", sans-serif;
+
+  --main-color: #ffffff;
+  --secondary-color: #000000;
+  --text-color: #ababab;
+
+  --main-size: 18px;
+  --section-title-size: 48px;
+  --service-title-size: 20px;
+}
